@@ -5,7 +5,7 @@ Este projeto é um **jogo educativo** desenvolvido em Python, utilizando recurso
 ## 🎮 Funcionalidades
 
 - Interface gráfica com imagens e sons
-- Diversos mini-jogos ou fases (ex: dinossauro, glub glub, estrela)
+- Diversos mini-jogos ou fases
 - Navegação simples para facilitar o uso por crianças
 
 ## 📁 Estrutura do Projeto
